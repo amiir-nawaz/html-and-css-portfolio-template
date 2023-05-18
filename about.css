@@ -1,0 +1,59 @@
+#main{
+    display: flex;
+}
+#image{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+#img{
+    background-color: black;
+
+    width: 50%;
+    height: 730px;
+}
+#section{
+    background-color: black;
+    color: aliceblue;
+}
+body{
+    margin: 0%;
+    height: 0%;
+    height: 700px;
+}
+#logo{
+    font-size: 40px;
+  
+    text-align: center;
+    margin-left: 27px;
+    margin-top: 31px;
+    width: 400px;
+    border: 2px solid brown;
+    border-radius: 12px;
+    font-family: 'Secular One', sans-serif;
+    background-color: brown;
+}
+#heading{
+    border: 2px solid brown;
+    background-color: brown;
+    margin-left: 27px;
+    width: 100px;
+    border-radius: 12px;
+}
+#headings{
+    border: 2px solid brown;
+    background-color: brown;
+    margin-left: 27px;
+    width: 170px;
+    border-radius: 12px;
+}
+.para{
+    margin-left: 62px;
+    font-size: 22px;
+}
+#items{
+    margin-left: 90px;
+font-size: 20px;}

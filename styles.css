@@ -1,0 +1,74 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#image{
+    width: 500px;
+    height: 500px;
+    margin-right: 203px;
+    margin-top: 153px;
+    color: ;
+    border-radius: 50%;
+    border: 3px solid red;
+}
+#main{
+    display: flex;
+    justify-content: space-between;
+}
+#contact{
+    margin: 80px;
+    font-size: 30px;
+    /* background-color: brown; */
+  
+    background-size: 600px;
+    /* background-attachment: cover; */
+    /* background:filter(8px)} */}
+body{
+    background-image: linear-gradient(to right, black , rgb(70, 70, 23));
+        background-size: 1600px;
+}
+#menu{font-family: 'Pacifico', cursive;
+    margin-top: 100px;
+    color: rgb(42, 166, 214) ;
+    font-size: 90PX;
+}
+#menu:hover{
+    color: aqua;
+}
+#email{
+    margin-top: 30px;
+    color: rgb(17, 160, 17);
+    /* color: aliceblue; */
+}
+#eemail{
+    font-family: 'Pacifico', cursive;
+    margin-top: 22px;
+    margin-left: 82px;
+    color: rgb(207, 178, 60);
+    margin-bottom: 12px;
+    font-size: 27PX;
+    border: 1px solid black;
+background-color:white;
+text-align: center;
+}
+#num{
+    margin-left: 80px;
+    color: rgb(207, 178, 60);
+    margin-top: 30px;
+    font-family: 'Pacifico', cursive;
+    font-size: 32PX;
+    border: 1px solid black;
+    background-color:white;
+    text-align: center;
+}
+#whatsapp{
+    margin-bottom: 33px;
+    margin-top: 1px;
+    color: rgb(17, 160, 17);
+}
+#ema{
+    color:rgb(17, 160, 17);
+}
+#emai{
+    color: rgb(17, 160, 17);
+}
